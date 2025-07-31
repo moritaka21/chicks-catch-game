@@ -1,9 +1,9 @@
 ## Screenshots
 
-### Game Start
-![Game Start](screenshots/Cover.png)
-![Game Playing](screenshots/gameplaying.png)
-![Game Over](screenshots/gameover.png)
+### Screenshots
+![Cover](Cover.png)
+![Game Playing](gameplaying.png)
+![Game Over](gameover.png)
 
 # Chicken Catch Game
 A chicken-catching game created with Scratch.
